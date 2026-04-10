@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg9" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="btn1.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="112.732px"
+	 height="25.326px" viewBox="0 0 112.732 25.326" enable-background="new 0 0 112.732 25.326" xml:space="preserve">
+<sodipodi:namedview  id="namedview11" inkscape:pagecheckerboard="1" inkscape:window-maximized="1" inkscape:current-layer="g17" inkscape:window-height="1057" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:deskcolor="#d1d1d1" inkscape:pageopacity="0" inkscape:showpageshadow="0" inkscape:window-width="1920" inkscape:zoom="1.3192231" bordercolor="#111111" pagecolor="#ffffff" inkscape:cx="-0.019405042" borderopacity="1" inkscape:cy="-164.53891" showgrid="false">
+	<inkscape:page  height="504.95132" y="0" width="552.47662" x="0" id="page15"></inkscape:page>
+</sodipodi:namedview>
+<g id="g17" transform="matrix(1.3333333,0,0,-1.3333333,-138.36684,1585.994)" inkscape:groupmode="layer" inkscape:label="Page 1">
+	<path id="path21" inkscape:label="bg13" inkscape:connector-curvature="0" fill="#F0F0FA" d="M103.775,1189.496h20.711v-18.995
+		h-20.711V1189.496L103.775,1189.496z"/>
+	<circle id="path13047" fill="#FF3300" cx="113.989" cy="1180.068" r="8.988"/>
+</g>
+<rect x="14.399" y="0.588" fill="#FF3300" width="85.468" height="23.947"/>
+<circle id="path13047_1_" fill="#FF3300" cx="99.337" cy="12.571" r="11.984"/>
+<circle id="path13047_2_" fill="#F9F7F7" cx="99.337" cy="12.571" r="9.587"/>
+<text transform="matrix(1 0 0 1 12.0476 17.5292)" fill="#FFFFFF" font-family="'Bahnschrift'" font-size="14">HOME</text>
+</svg>

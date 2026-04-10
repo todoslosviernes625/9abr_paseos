@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg9" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="btn1.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="34.52px"
+	 height="32.461px" viewBox="0 0 34.52 32.461" enable-background="new 0 0 34.52 32.461" xml:space="preserve">
+<sodipodi:namedview  id="namedview11" inkscape:window-maximized="1" inkscape:pagecheckerboard="1" inkscape:window-width="1920" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:deskcolor="#d1d1d1" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-height="1057" inkscape:current-layer="g17" pagecolor="#ffffff" borderopacity="1" showgrid="false" inkscape:cy="-164.53891" inkscape:cx="-0.019405042" bordercolor="#111111" inkscape:zoom="1.3192231">
+	<inkscape:page  height="504.95132" y="0" width="552.47662" x="0" id="page15"></inkscape:page>
+</sodipodi:namedview>
+<g id="g17" transform="matrix(1.3333333,0,0,-1.3333333,-138.36684,1585.994)" inkscape:label="Page 1" inkscape:groupmode="layer">
+	<path id="path21" inkscape:connector-curvature="0" inkscape:label="bg13" fill="#F9F7F7" d="M103.775,1189.109h25.89v-23.742
+		h-25.89V1189.109L103.775,1189.109z"/>
+	<circle id="path13047" fill="#63A5A5" cx="116.543" cy="1177.323" r="11.235"/>
+	<circle id="path13047_3_" fill="#518280" cx="116.543" cy="1177.323" r="8.988"/>
+	<circle id="path13047_4_" fill="#518280" cx="116.543" cy="1177.323" r="7.19"/>
+	<circle id="path13047_5_" fill="#518280" cx="116.543" cy="1177.323" r="5.752"/>
+</g>
+<path fill="#79CDD1" d="M80.208,39.559c-1.162-1.142-2.554-1.723-4.167-1.723H40.339H39.14H17.109c-1.639,0-3.025,0.582-4.166,1.723
+	c-1.142,1.159-1.723,2.528-1.723,4.168v13.228c0,1.64,0.581,3.008,1.723,4.147c1.142,1.153,2.528,1.735,4.166,1.735H39.14h1.199
+	h35.702c1.616,0,3.006-0.573,4.167-1.735c1.14-1.146,1.699-2.516,1.699-4.147V43.725C81.907,42.086,81.348,40.718,80.208,39.559z"/>
+<path fill="#63A5A5" d="M23.717,39.559c-1.162-1.142-2.552-1.723-4.167-1.723H-2.482h-1.199h-22.03c-1.64,0-3.027,0.582-4.167,1.723
+	c-1.142,1.159-1.723,2.528-1.723,4.168v13.228c0,1.64,0.581,3.008,1.723,4.147c1.141,1.153,2.528,1.735,4.167,1.735h22.03h1.199
+	h22.031c1.616,0,3.006-0.573,4.167-1.735c1.141-1.146,1.699-2.516,1.699-4.147V43.725C25.415,42.086,24.857,40.718,23.717,39.559z"
+	/>
+<circle id="path13047_1_" fill="#FF3300" cx="69.187" cy="13.234" r="14.98"/>
+<circle id="path13047_2_" fill="#518280" cx="69.923" cy="13.234" r="11.984"/>
+<circle id="path13047_8_" fill="#79CDD1" stroke="#FF7B7B" stroke-width="1.875" cx="104.845" cy="13.234" r="14.98"/>
+<circle id="path13047_7_" fill="#518280" cx="105.581" cy="13.234" r="11.984"/>
+</svg>
