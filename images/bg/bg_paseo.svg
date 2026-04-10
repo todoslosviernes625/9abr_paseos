@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   sodipodi:docname="bg_paseo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   x="0px"
+   y="0px"
+   width="425.197px"
+   height="497.707px"
+   viewBox="0 -154.75 425.197 497.707"
+   enable-background="new 0 -154.75 425.197 497.707"
+   xml:space="preserve"><metadata
+   id="metadata1518"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1516"><linearGradient
+     inkscape:collect="always"
+     xlink:href="#rect5_1_-1"
+     id="linearGradient903"
+     x1="-299.85727"
+     y1="46.462635"
+     x2="429.32834"
+     y2="48.144077"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1,0,0,1.064765,0.44389089,5.7848562)" /><linearGradient
+     gradientTransform="translate(16.6797,-389.1563)"
+     y2="480.3765"
+     x2="419.41891"
+     y1="480.3765"
+     x1="-21.221701"
+     gradientUnits="userSpaceOnUse"
+     id="rect5_1_-1"><stop
+       id="stop2698"
+       style="stop-color:#003AAA"
+       offset="0" /><stop
+       id="stop2700"
+       style="stop-color:#003840;stop-opacity:1"
+       offset="1" /><stop
+       id="stop2702"
+       style="stop-color:#003196"
+       offset="1" /><stop
+       id="stop2704"
+       style="stop-color:#002847;stop-opacity:0"
+       offset="1" /></linearGradient></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview1514"
+   showgrid="false"
+   inkscape:zoom="0.47417456"
+   inkscape:cx="-49.963037"
+   inkscape:cy="248.8535"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+<linearGradient
+   id="rect5_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="-21.2217"
+   y1="480.3765"
+   x2="419.4189"
+   y2="480.3765"
+   gradientTransform="matrix(1 0 0 1 16.6797 -389.1563)">
+	<stop
+   offset="0"
+   style="stop-color:#003AAA"
+   id="stop1503" />
+	<stop
+   offset="0.1829"
+   style="stop-color:#0038A5"
+   id="stop1505" />
+	<stop
+   offset="0.4086"
+   style="stop-color:#003196"
+   id="stop1507" />
+	<stop
+   offset="0.6355"
+   style="stop-color:#00287F"
+   id="stop1509" />
+</linearGradient>
+
+<rect
+   style="opacity:1;vector-effect:none;fill:url(#linearGradient903);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46903288;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect879"
+   width="429.32831"
+   height="529.94098"
+   x="0.44390687"
+   y="-158.9875" /><rect
+   id="rect5"
+   x="-10.868776"
+   y="-158.9875"
+   inkscape:transform-center-x="37.230026"
+   inkscape:transform-center-y="-7.8972783"
+   width="440.64099"
+   height="529.94098"
+   style="opacity:0.18600003;fill:#000000">
+</rect></svg>

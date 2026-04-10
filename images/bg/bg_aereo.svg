@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Capa_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="web-app_11.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="425.197px"
+	 height="451.764px" viewBox="0 0 425.197 451.764" enable-background="new 0 0 425.197 451.764" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective2000" inkscape:vp_x="-8.6141454 : 517.48672 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_z="1033.1077 : -1678.8275 : 1" inkscape:vp_y="507.44659 : 794.67166 : 0" inkscape:persp3d-origin="336.03449 : -814.93208 : 1">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  id="perspective825" inkscape:vp_x="-146.69395 : 349.67202 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_z="1737.6443 : -2704.8037 : 1" inkscape:vp_y="725.64205 : 1313.8618 : 0" inkscape:persp3d-origin="740.83873 : -1276.4918 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="namedview133" inkscape:cy="187.27831" inkscape:cx="416.29938" inkscape:zoom="0.88638134" showgrid="false" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" guidetolerance="10" gridtolerance="10" inkscape:window-width="1366" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:pageopacity="0" inkscape:deskcolor="#d1d1d1" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-height="705" inkscape:current-layer="Capa_1" inkscape:window-maximized="1" inkscape:pagecheckerboard="0">
+	</sodipodi:namedview>
+<linearGradient id="rect5_1_" gradientUnits="userSpaceOnUse" x1="-10.4214" y1="179.7002" x2="419.3174" y2="179.7002" gradientTransform="matrix(1 0 0 -1 8.3398 427.8037)">
+	<stop  offset="0" style="stop-color:#23DC7F"/>
+	<stop  offset="0.4535" style="stop-color:#00B4B4"/>
+	<stop  offset="1" style="stop-color:#00FFC0"/>
+	<stop  offset="1" style="stop-color:#09A807;stop-opacity:0"/>
+</linearGradient>
+<rect id="rect5" x="-2.082" y="-0.75" inkscape:transform-center-y="-7.8972783" inkscape:transform-center-x="37.230026" fill="url(#rect5_1_)" width="429.739" height="497.707">
+</rect>
+</svg>
